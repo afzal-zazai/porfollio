@@ -25,7 +25,7 @@ import {
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ years"
+      fieldValue: "0 years"
     },
     {
       fieldName: "Nationality",
