@@ -14,8 +14,8 @@ const services = [
   {
     num: '02',
     title: 'UI/UX Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-    href: "https://www.figma.com/design/ZHRn0UZ8LKdeJRXhQuPBj9/Untitled?node-id=0-1&t=utNunQmgGRFV0hZw-0"
+    description: 'juniopix digital atelier',
+    href: "https://www.figma.com/design/6OFiaaYahvrwI6QN8sFCer/Untitled?node-id=0-1&t=FCAHkTzKBC6HU0IV-1"
   },
   {
     num: '03',

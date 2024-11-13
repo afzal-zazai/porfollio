@@ -13,15 +13,15 @@ import {
 
  const about ={
   title: 'About me',
-  description: " Lorem ipsum dolfhgfye bnvhtyjdud",
+  description: "Lorem ipsum dolfhgfye bnvhtyjdud",
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Ilango Ilangeeran"
+      fieldValue: "Afzal Ahamed"
     },
     {
       fieldName: "Phone",
-      fieldValue: "+94 763248524"
+      fieldValue: "+94 75400015"
     },
     {
       fieldName: "Experience",
@@ -33,7 +33,7 @@ import {
     },
     {
       fieldName: "Email",
-      fieldValue: "ilangoilangee1214@gmail.com"
+      fieldValue: "afzalzazai17@gmail.com"
     },
     {
       fieldName: "Freelance",
@@ -52,8 +52,8 @@ import {
   description: "lorem bvnhytuhnfgy bnthyumdjali ghtyunv rfdth",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Full Stack Developer",
+      company: "AAT Sri Lanka .",
+      position: "Business Analyst",
       duration: "2022 - present",
     },
     {
@@ -105,9 +105,9 @@ import {
       duration: "2020 - 2021",
     },
     {
-      institute: "Tech Institute",
-      degree: "Certified Web Developer",
-      duration: "2019",
+      institute: "AAT Sri Lanka",
+      degree: "Certified acountant",
+      duration: "2023-2024",
     },
     {
       institute: "Design School",
@@ -125,7 +125,7 @@ import {
 
  const skills = {
   title: "My Skills",
-  description: "i am nhguntu ghtyindj tnbfsyfnh nhytbvfy",
+  description: "hey get my skills for offer",
   skillList: [
     {
       icon: <FaHtml5 />,

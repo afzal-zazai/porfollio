@@ -21,16 +21,26 @@ import WorkSliderBtns from "@/components/ui/WorkSliderBtns";
 const projects = [
   {
     num: '01',
+    category: 'fullstack',
+    title: 'project 4',
+    description: "juniopix",
+    stack: [{ name: "Next.js "}, { name: "Tailwind.css"}, { name: "Node.js"}],
+    image: '/ecommerce.webp',
+    live: '',
+    github: "",
+  },
+  {
+    num: '02',
     category: 'frontend',
     title: 'project 1',
     description: "lorem ipsum dolor sit amet consectetur ad",
     stack: [{ name: "Html 5 "}, { name: "Css 3"}, { name: "Javascript"}],
     image: '/car.png',
     live: "https://carrental-853396576.development.catalystserverless.com/app/index.html",
-    github: "https://github.com/IlangoIlangeeran/vehicle-rental-system",
+    github: "",
   },
   {
-    num: '02',
+    num: '03',
     category: 'fullstack',
     title: 'project 2',
     description: "lorem ipsum dolor sit amet consectetur ad",
@@ -40,7 +50,7 @@ const projects = [
     github: "",
   },
   {
-    num: '03',
+    num: '04',
     category: 'frontend',
     title: 'project 3',
     description: "lorem ipsum dolor sit amet consectetur ad",
@@ -49,6 +59,7 @@ const projects = [
     live: '',
     github: "",
   },
+
 ]
   
 
